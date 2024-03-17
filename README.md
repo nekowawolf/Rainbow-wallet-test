@@ -1,5 +1,8 @@
+1
+```bash
 git clone https://github.com/nekowawolf/Rainbow-wallet-test.git
-
+```
+2
 ```bash
 npm run dev
 ```
